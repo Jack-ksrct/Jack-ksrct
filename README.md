@@ -1,14 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jack%20Christopher%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Builder%20of%20Real-World%20AI%20Systems&descAlignY=62&descSize=16"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Jack%20Christopher%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Builder%20of%20Real-World%20AI%20Systems&descAlignY=62&descSize=16"/>
+</p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jack+Christopher+%F0%9F%91%8B;AI+%26+Data+Science+Undergraduate;Building+AI+that+solves+real+problems;Python+%7C+ML+%7C+Computer+Vision+%7C+Federated+AI" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jack+Christopher+%F0%9F%91%8B;AI+%26+Data+Science+Undergraduate;Building+AI+that+solves+real+problems;Python+%7C+ML+%7C+Computer+Vision+%7C+Federated+AI" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class JackChristopher:
@@ -83,12 +83,9 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Jack-ksrct">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jack-ksrct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/Jack-ksrct">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-ksrct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jack-ksrct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
+  &nbsp;
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-ksrct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
 </div>
 
 ---
@@ -112,7 +109,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jack-ksrct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jack-ksrct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
 </div>
 
 ---
@@ -120,7 +117,21 @@ print(me.motto())
 ## 💼 Experience
 
 <details>
-<summary><b>Google — AI / ML Online Internship &nbsp;|&nbsp; Remote, Online</b></summary>
+<summary><b>🏢 Nexyuga Innovations PVT LTD — NLP Intern &nbsp;|&nbsp; Present</b></summary>
+<br/>
+
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+> ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+- Working on Natural Language Processing tasks including text classification, entity recognition, and language model integration.
+- Building and fine-tuning NLP pipelines to solve real-world business problems for the company's product suite.
+- Collaborating with the engineering team to deploy AI-powered features in production environments.
+
+</details>
+
+<details>
+<summary><b>🌐 Google — AI / ML Online Internship &nbsp;|&nbsp; Remote</b></summary>
 <br/>
 
 > ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -143,7 +154,7 @@ print(me.motto())
 | [**Floatchat**](https://float-chat-xi.vercel.app/) | Python, NetCDF, Vercel | Ocean data processing platform; extracts temperature & salinity from Argo float data to simplify scientific interpretation |
 | [**FedHealthAI**](https://github.com/Jack-ksrct/fed-health-ai) | Python, Federated Learning | Privacy-preserving healthcare AI; trains predictive models across distributed nodes without sharing patient data |
 | [**Animal Detection Live**](https://github.com/Jack-ksrct/animal_detection_live) | Python, OpenCV, Deep Learning | Real-time wildlife detection via live camera feed with optimized low-latency inference for human-wildlife conflict prevention |
-| [**VoiceMart**](https://github.com/Jack-ksrct/Voice-Mart) | Sarvam AI, Claude API, Firebase, React | Voice-based rural marketplace; won hackathon selection for competitive differentiation in Indian-language NLP |
+| [**VoiceMart**](https://github.com/Jack-ksrct/Voice-Mart) | Sarvam AI, Claude API, Firebase, React | Voice-based rural marketplace; built for hackathon — Indian-language NLP for rural accessibility |
 | [**AJ Bot**](https://aj-bot.streamlit.app/) | Streamlit, Gemini Flash | Live AI chatbot deployed on Streamlit Cloud |
 | [**Python Web IDE**](https://pythonexe.streamlit.app/) | Streamlit, Python | Browser-based Python execution environment |
 
@@ -173,9 +184,11 @@ print(me.motto())
 
 <div align="center">
 
-| Degree | Institution | Location | Score |
-|---|---|---|---|
-| B.Tech – Artificial Intelligence & Data Science | K.S. Rangasamy College of Technology | Tiruchengode, India | CGPA: 8.5 |
+| Year | Qualification | Institution | Location | Score |
+|---|---|---|---|---|
+| 2024 – Present | B.Tech – AI & Data Science | K.S. Rangasamy College of Technology | Tiruchengode, India | CGPA: 8.41 |
+| 2024 | 12th Standard | Gedee Public School | Coimbatore, India | 72.5% |
+| 2022 | 10th Standard | The Ideal Mount Litera Zee School | Coimbatore, India | 85% |
 
 </div>
 
@@ -184,11 +197,12 @@ print(me.motto())
 ## 🧱 Currently Learning
 
 ```
-🧠 Deep Learning        → CNNs, Transfer Learning, Model Fine-tuning
+🧠 Deep Learning        → CNNs, Transfer Learning, Model Fine-tuning, Pytorch
 🔐 Federated Learning   → Privacy-Preserving AI, Distributed Training
-👁️  Computer Vision      → Real-Time Object Detection, YOLOv8
+👁️ Computer Vision      → Real-Time Object Detection, YOLOv8
 🤖 Large Language Models → Prompt Engineering, Claude API, Gemini Flash
-☁️  Cloud Deployment     → Vercel, Streamlit Cloud, Firebase Hosting
+☁️ Cloud Deployment     → Vercel, Streamlit Cloud, Firebase Hosting, GCP
+💬 NLP                  → Transformers, Named Entity Recognition, Text Classification
 📐 DSA                  → Problem Solving in C & Python
 ```
 
@@ -205,4 +219,6 @@ print(me.motto())
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=twinkling"/>
+</p>
