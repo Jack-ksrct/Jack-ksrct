@@ -1,7 +1,5 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Jack%20Christopher%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Builder%20of%20Real-World%20AI%20Systems&descAlignY=62&descSize=16)
-
+  <img width="100%" src="header.svg" alt="Jack Christopher A"/>
 </div>
 
 <div align="center">
@@ -206,9 +204,9 @@ print(me.motto())
 ```
 🧠 Deep Learning        → CNNs, Transfer Learning, Model Fine-tuning, Pytorch
 🔐 Federated Learning   → Privacy-Preserving AI, Distributed Training
-👁️ Computer Vision      → Real-Time Object Detection, YOLOv8
+👁️  Computer Vision      → Real-Time Object Detection, YOLOv8
 🤖 Large Language Models → Prompt Engineering, Claude API, Gemini Flash
-☁️ Cloud Deployment     → Vercel, Streamlit Cloud, Firebase Hosting, GCP
+☁️  Cloud Deployment     → Vercel, Streamlit Cloud, Firebase Hosting, GCP
 💬 NLP                  → Transformers, Named Entity Recognition, Text Classification
 📐 DSA                  → Problem Solving in C & Python
 ```
@@ -227,7 +225,5 @@ print(me.motto())
 </div>
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=twinkling)
-
+  <img width="100%" src="footer.svg" alt="footer"/>
 </div>
