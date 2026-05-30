@@ -1,0 +1,44 @@
+<svg width="1200" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wave-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="40%" style="stop-color:#1a1a4e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#70a5fd"/>
+      <stop offset="100%" style="stop-color:#bf91f3"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="180" fill="url(#wave-grad)"/>
+
+  <!-- Wave top -->
+  <path d="M0,60 C150,100 350,20 600,60 C850,100 1050,20 1200,60 L1200,0 L0,0 Z" fill="#161b22" opacity="0.5"/>
+
+  <!-- Wave bottom -->
+  <path d="M0,140 C200,110 400,160 600,140 C800,120 1000,160 1200,140 L1200,180 L0,180 Z" fill="#161b22" opacity="0.6"/>
+
+  <!-- Name -->
+  <text x="600" y="85" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700"
+        text-anchor="middle" fill="url(#text-grad)">Jack Christopher A</text>
+
+  <!-- Tagline -->
+  <text x="600" y="120" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="400"
+        text-anchor="middle" fill="#8b949e">AI &amp; Data Science Undergrad  |  Builder of Real-World AI Systems</text>
+
+  <!-- Dots decoration left -->
+  <circle cx="60" cy="50" r="3" fill="#70a5fd" opacity="0.6"/>
+  <circle cx="90" cy="30" r="2" fill="#bf91f3" opacity="0.5"/>
+  <circle cx="40" cy="80" r="2" fill="#38bdae" opacity="0.5"/>
+  <circle cx="120" cy="70" r="3" fill="#70a5fd" opacity="0.4"/>
+  <circle cx="160" cy="40" r="2" fill="#bf91f3" opacity="0.6"/>
+
+  <!-- Dots decoration right -->
+  <circle cx="1140" cy="50" r="3" fill="#70a5fd" opacity="0.6"/>
+  <circle cx="1110" cy="30" r="2" fill="#bf91f3" opacity="0.5"/>
+  <circle cx="1160" cy="80" r="2" fill="#38bdae" opacity="0.5"/>
+  <circle cx="1080" cy="70" r="3" fill="#70a5fd" opacity="0.4"/>
+  <circle cx="1040" cy="40" r="2" fill="#bf91f3" opacity="0.6"/>
+</svg>
