@@ -18,7 +18,7 @@ class JackChristopher:
         self.location    = "Coimbatore, India 🇮🇳"
         self.degree      = "B.Tech – AI & Data Science"
         self.college     = "K.S. Rangasamy College of Technology"
-        self.cgpa        = 8.5
+        self.cgpa        = 8.41
 
         self.stack = [
             "Python", "Java", "C",
@@ -27,7 +27,7 @@ class JackChristopher:
         ]
 
         self.currently_learning = [
-            "Deep Learning → CNNs, Transfer Learning",
+            "Deep Learning → CNNs, Transfer Learning, Pytorch, GCP",
             "Federated Learning → Privacy-Preserving AI",
             "Computer Vision → Real-Time Detection",
             "LLMs → Gemini, Claude API Integration"
@@ -191,7 +191,7 @@ print(me.motto())
 
 | Year | Qualification | Institution | Location | Score |
 |---|---|---|---|---|
-| 2024 – Present | B.Tech – AI & Data Science | K.S. Rangasamy College of Technology | Tiruchengode, India | CGPA: 8.5 |
+| 2024 – Present | B.Tech – AI & Data Science | K.S. Rangasamy College of Technology | Tiruchengode, India | CGPA: 8.41 |
 | 2024 | 12th Standard | Gedee Public School | Coimbatore, India | 72.5% |
 | 2022 | 10th Standard | The Ideal Mount Litera Zee School | Coimbatore, India | 85% |
 
