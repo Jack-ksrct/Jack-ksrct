@@ -1,6 +1,8 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Jack%20Christopher%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Builder%20of%20Real-World%20AI%20Systems&descAlignY=62&descSize=16"/>
-</p>
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Jack%20Christopher%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Builder%20of%20Real-World%20AI%20Systems&descAlignY=62&descSize=16)
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Jack+Christopher+%F0%9F%91%8B;AI+%26+Data+Science+Undergraduate;Building+AI+that+solves+real+problems;Python+%7C+ML+%7C+Computer+Vision+%7C+Federated+AI" alt="Typing SVG" />
@@ -106,10 +108,15 @@ print(me.motto())
 
 ---
 
-## 🏆 Trophy Wall
+## 🏆 Certifications & Skills Snapshot
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jack-ksrct&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10"/>
+
+![Nvidia](https://img.shields.io/badge/NVIDIA-Transformers%20%26%20NLP-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-AI%20%26%20Data%20Badge-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-Responsible%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-Excel%20Advanced-0078D4?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 </div>
 
 ---
@@ -186,7 +193,7 @@ print(me.motto())
 
 | Year | Qualification | Institution | Location | Score |
 |---|---|---|---|---|
-| 2023 – Present | B.Tech – AI & Data Science | K.S. Rangasamy College of Technology | Tiruchengode, India | CGPA: 8.5 |
+| 2024 – Present | B.Tech – AI & Data Science | K.S. Rangasamy College of Technology | Tiruchengode, India | CGPA: 8.5 |
 | 2024 | 12th Standard | Gedee Public School | Coimbatore, India | 72.5% |
 | 2022 | 10th Standard | The Ideal Mount Litera Zee School | Coimbatore, India | 85% |
 
@@ -219,6 +226,8 @@ print(me.motto())
 
 </div>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=twinkling"/>
-</p>
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&animation=twinkling)
+
+</div>
