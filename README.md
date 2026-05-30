@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Jack%20Christopher%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Builder%20of%20Real-World%20AI%20Systems&descAlignY=62&descSize=16"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=180&section=header&text=Jack%20Christopher%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Undergrad%20%7C%20Builder%20of%20Real-World%20AI%20Systems&descAlignY=62&descSize=16"/>
 </p>
 
 <div align="center">
@@ -83,9 +83,9 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jack-ksrct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jack-ksrct&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   &nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-ksrct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jack-ksrct&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </div>
 
 ---
@@ -109,7 +109,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jack-ksrct&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jack-ksrct&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10"/>
 </div>
 
 ---
@@ -186,7 +186,7 @@ print(me.motto())
 
 | Year | Qualification | Institution | Location | Score |
 |---|---|---|---|---|
-| 2024 – Present | B.Tech – AI & Data Science | K.S. Rangasamy College of Technology | Tiruchengode, India | CGPA: 8.41 |
+| 2023 – Present | B.Tech – AI & Data Science | K.S. Rangasamy College of Technology | Tiruchengode, India | CGPA: 8.5 |
 | 2024 | 12th Standard | Gedee Public School | Coimbatore, India | 72.5% |
 | 2022 | 10th Standard | The Ideal Mount Litera Zee School | Coimbatore, India | 85% |
 
@@ -220,5 +220,5 @@ print(me.motto())
 </div>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=twinkling"/>
 </p>
